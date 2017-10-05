@@ -13,3 +13,7 @@ In diesem Sinne: Toi toi und happy coding :-)
 ![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/hexagonal.jpg)
 
 ![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Arc_Domain_intern.jpg)
+
+![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V1.png)
+![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V2.png)
+![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V3.png)
