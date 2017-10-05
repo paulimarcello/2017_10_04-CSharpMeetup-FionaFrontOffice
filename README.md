@@ -9,3 +9,7 @@ Ich glaube die Stärken einer solchen Architektur machen dann Sinn, wenn die Dom
 An dieser Stelle möchte ich noch einmal zum Ausdruck bringen, wie wichtig es ist, vorab so viel wie möglich über meine fachliche Domäne zu erfahren - damit ich dann besser einschätzen kann, mit was für eine Architektur ich die App hochziehe.
 
 In diesem Sinne: Toi toi und happy coding :-)
+
+![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/hexagonal.jpg)
+
+![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Arc_Domain_intern.jpg)
