@@ -10,10 +10,17 @@ An dieser Stelle möchte ich noch einmal zum Ausdruck bringen, wie wichtig es is
 
 In diesem Sinne: Toi toi und happy coding :-)
 
-![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/hexagonal.jpg)
+### mögliche Gesamt-Architektur der App
+![](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/hexagonal.jpg)
 
-![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Arc_Domain_intern.jpg)
+### mögliche innere Architektur von Domain
+![](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Arc_Domain_intern.jpg)
 
-![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V1.png)
-![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V2.png)
-![alt text](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V3.png)
+### Eventstorming V1 mit entsprechenden Problemen
+![](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V1.png)
+
+### Eventstorming V2 mögliche bessere Version
+![](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V2.png)
+
+### Eventstorming V3 Hinzufügen einer "private Sandbox", um mögliche Vertipper oder andere Probleme zu kompensieren, aber nicht zu heilen
+![](https://github.com/paulimarcello/2017_10_04-CSharpMeetup-FionaFrontOffice/blob/master/Fiona_V3.png)
